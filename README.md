@@ -6,4 +6,4 @@ In this repository you will find
 2- KiCad File for PCB
 
 This product is developed by www.cruxbd.com
-Developer: Syed Razwanul Haque(Project Owner) & Hasan Sohag
+Developer: </b>Syed Razwanul Haque(Project Owner) </b>& </b>Hasan Sohag
